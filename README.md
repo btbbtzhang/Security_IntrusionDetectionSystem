@@ -10,4 +10,4 @@ Application of DNN, SVM, and NB.
 Check the paper.
 
 ## Note:
-The code is missing. :(
+The code is missing :(
