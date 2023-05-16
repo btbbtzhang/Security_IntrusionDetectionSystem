@@ -9,5 +9,3 @@ Application of DNN, SVM, and NB.
 ## Result:
 Check the paper.
 
-## Note:
-The code is missing :(
